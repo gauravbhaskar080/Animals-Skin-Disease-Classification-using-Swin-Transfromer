@@ -11,9 +11,9 @@ Guide :
 
 Team Members:
 -------------
-* Gaurav Bhaskar - S20210010080
-* Mohammed Damin Khan - S20210010147
-* Mohammed Faizan Ali - S20210010149
+* Gaurav Bhaskar 
+* Mohammed Damin Khan 
+* Mohammed Faizan Ali 
 
 
 Features:
@@ -123,7 +123,7 @@ Results:
 
 1. Web Interface Classifications:
 
-* Cow Normal 
+* Cow Normal : ![Cow Normal Skin](Images/Cow-normal-skin)
 
 * Lumpy Skin
 
