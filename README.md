@@ -123,17 +123,15 @@ Results:
 
 1. Web Interface Classifications:
 
-* Cow Normal Skin: ![Cow Normal Skin](Images/Cow-normal-skin.png)
-
-* Lumpy Skin : ![Lumpy Skin](Images/1-Lumpy-Skin-Disease.png) ![Dermatitis Skin](Images/2-Lumpy-Skin-Disease.png)
-
-* Dog Normal SKin : ![Dog Normal Skin](Images/Dog-normal-skin.png)
-
-* Dermatitis Skin : ![Dermatitis Skin](Images/1-Dermatitis-Skin-Disease.png) ![Dermatitis Skin](Images/2-Dermatitis-Skin-Disease.png)
-
-* Cat Normal Skin : ![Cat Normal Skin](Images/Cat-normal-skin.png)
-
-* Leprosy Skin : ![Leprosy Skin](Images/1-Leprosy-Skin-Disease.png) ![Leprosy Skin](Images/2-Leprosy-Skin-Disease.png)
+![Cow Normal Skin](Images/Cow-normal-skin.png)
+![Lumpy Skin](Images/1-Lumpy-Skin-Disease.png) 
+![Dermatitis Skin](Images/2-Lumpy-Skin-Disease.png)
+![Dog Normal Skin](Images/Dog-normal-skin.png)
+![Dermatitis Skin](Images/1-Dermatitis-Skin-Disease.png) 
+![Dermatitis Skin](Images/2-Dermatitis-Skin-Disease.png)
+![Cat Normal Skin](Images/Cat-normal-skin.png)
+![Leprosy Skin](Images/1-Leprosy-Skin-Disease.png) 
+![Leprosy Skin](Images/2-Leprosy-Skin-Disease.png)
 
 2. Loss and Accuracy Graphs:
 
