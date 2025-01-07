@@ -83,6 +83,7 @@ Usage Instructions:
 
 Data Organization:
 -----------------
+Dataset Link : 
 The dataset should be organized as follows:
 
 input/
@@ -133,10 +134,11 @@ Results:
 ![Leprosy Skin](Images/1-Leprosy-Skin-Disease.png) 
 ![Leprosy Skin](Images/2-Leprosy-Skin-Disease.png)
 
-2. Loss and Accuracy Graphs:
-
-3. Confusion Matrix
-
+2. Loss and Accuracy Graphs (Swin Transformer):
+![Loss](Images/loss.png)
+![Accuracy](Images/accuracy.png)
+4. Confusion Matrix (Swin Transformer):
+![Confusion matrix](Images/confusion_matrix.png)
 
 
 Additional Notes:
